@@ -2,3 +2,5 @@ Catalogs: https://themes.shopify.com/collections/large-inventory?fbclid=IwZXh0bg
 
 Trade: https://themes.shopify.com/themes/trade/styles/default?locale=en&surface_detail=large-inventory&surface_inter_position=1&surface_intra_position=22&surface_type=collection&fbclid=IwZXh0bgNhZW0CMTEAAR3H87WTOSgI5W5zgCbb2geHnRU0Rwc_626bL6xSMjZbz8RvJq_z4jUZpUg_aem_zoxgBHmvcPX5wttPfEtDpA
 Preview: https://themes.shopify.com/themes/trade/styles/default/preview?surface_detail=large-inventory&surface_inter_position=1&surface_intra_position=22&surface_type=collection
+
+Theme Designing: https://youtu.be/xQdIDqjBaZ8?si=rCDbqiJ9YvoRQzro [14:00] 
