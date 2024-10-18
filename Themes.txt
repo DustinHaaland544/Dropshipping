@@ -1,1 +1,3 @@
 Catalogs: https://themes.shopify.com/collections/large-inventory?fbclid=IwZXh0bgNhZW0CMTEAAR018E0YfeGZANWEdh02IGyqSjssnKEsrDdyyuRleQ_P-bq3R-nnnVUuCR0_aem_gQ3NFb4ZlAXzWBPCbicvcQ
+
+Trade: https://themes.shopify.com/themes/trade/styles/default?locale=en&surface_detail=large-inventory&surface_inter_position=1&surface_intra_position=22&surface_type=collection&fbclid=IwZXh0bgNhZW0CMTEAAR3H87WTOSgI5W5zgCbb2geHnRU0Rwc_626bL6xSMjZbz8RvJq_z4jUZpUg_aem_zoxgBHmvcPX5wttPfEtDpA
