@@ -29,3 +29,90 @@ Registration Links:
 - Gelato: https://santrelmedia.com/gelato
 - Printful: https://santrelmedia.com/printful
 - Printify: https://santrelmedia.com/printify 
+
+Yes, there are suppliers that support white-label or private label dropshipping, allowing dropshippers to use their own branding, including logos and labels, on 
+the packages sent to customers. These suppliers typically offer customization services like adding your brand logo to packaging, inserts, or even the products 
+themselves. Here are some popular options that integrate well with Shopify:
+
+1. Printful
+
+Service: Printful allows you to create custom products like clothing, accessories, and home goods with your own branding. You can add your logo to packaging and 
+inserts, and it integrates directly with Shopify.
+
+How to Connect with Shopify: Printful has a Shopify app that automates order fulfillment. Once connected, any orders placed on your Shopify store are automatically 
+sent to Printful, and they handle the production, packaging, and shipping.
+
+Branding Features: Custom labels, packaging inserts, and logo on shipping boxes.
+
+2. Printify
+
+Service: Similar to Printful, Printify offers a wide range of customizable products. While Printify relies on a network of print providers, some of them offer 
+branding options like custom labels or inserts.
+
+How to Connect with Shopify: Printify also has a Shopify app for easy integration, automating the product fulfillment process.
+
+Branding Features: Branding on product labels, custom packaging (depends on the print provider).
+
+3. Modalyst
+
+Service: Modalyst offers access to suppliers who provide private-label dropshipping options. You can connect with suppliers who allow you to use your brand on the 
+packaging.
+
+How to Connect with Shopify: Modalyst has a Shopify app for easy synchronization, automatically pushing product listings and order information between Shopify and 
+the supplier.
+
+Branding Features: Many Modalyst suppliers support private-label options, allowing you to customize the packaging and product branding.
+
+4. Alibaba Dropshipping (AliExpress)
+
+Service: Some suppliers on AliExpress or Alibaba offer private labeling or custom packaging for dropshipping products. You can work with these suppliers to create 
+branded packaging for your store.
+
+How to Connect with Shopify: You can use Shopify apps like Oberlo (for AliExpress) or other third-party apps like DSers or Spocket to integrate these suppliers
+with your store.
+
+Branding Features: Many suppliers provide the option to add custom logos, packaging, and product branding for an additional fee.
+
+5. Spocket
+
+Service: Spocket focuses on sourcing high-quality products, mainly from the US and EU. Some suppliers on Spocket offer private label and custom branding options.
+
+How to Connect with Shopify: Spocket has a dedicated Shopify app that allows seamless product import and order automation.
+
+Branding Features: Select suppliers offer branding on packaging and products.
+
+How to Connect with These Suppliers:
+
+Install the Supplier’s Shopify App: Most of the suppliers mentioned have a Shopify app available in the Shopify App Store. You can easily integrate them by 
+installing their app and syncing products to your store.
+
+Set Up Branding Options: Once connected, you can explore each supplier's specific branding options. For some, this will be available within the app itself (like
+Printful or Printify), while others may require you to communicate directly with the supplier (like on AliExpress or Alibaba).
+
+Automate Order Fulfillment: With the app installed, when a customer places an order, it will automatically be routed to the supplier for fulfillment with your 
+branding.
+
+Would you like help setting up or exploring specific suppliers for Leavsley?
+
+Yes, Zendrop offers custom branding options for dropshippers, including services like branded packaging and custom inserts. They allow you to add your own brand's 
+logo and message to the packaging that gets sent to your customers, which can enhance your store's professional image and improve customer loyalty.
+
+Key Branding Features of Zendrop:
+
+Custom Packaging: You can have your logo printed on shipping boxes or packaging materials.
+
+Custom Inserts: Add promotional materials, thank-you cards, or instructions with your branding to create a more personalized unboxing experience.
+
+Branded Invoices: Your logo and company details can be included on the invoices sent with each order.
+
+How to Connect Zendrop with Shopify:
+
+Install the Zendrop Shopify App: Zendrop has an app on the Shopify App Store that integrates seamlessly with your store.
+
+Sync Products: You can easily import products from Zendrop to your Shopify store with just a few clicks.
+
+Set Up Custom Branding: After the app is connected, you can contact Zendrop's support team or use the branding features within their platform to set up your
+custom packaging and inserts.
+
+This makes Zendrop a solid option if you're looking for suppliers that allow branded dropshipping with easy integration into your Shopify store. Would you like 
+more details on how to set up Zendrop for Leavsley?
