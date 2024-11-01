@@ -1,6 +1,6 @@
 GemPages is a Shopify app designed for easy drag-and-drop page building. It lets you create highly customized pages for your Shopify store, like product pages, 
-landing pages, homepages, and blog posts, without needing coding skills. The app comes with a variety of templates, elements, and integrations, making it a versatile tool 
-for designing a unique and professional-looking store.
+landing pages, homepages, and blog posts, without needing coding skills. The app comes with a variety of templates, elements, and integrations, making it a 
+versatile tool for designing a unique and professional-looking store.
 
 1. Main Features of GemPages
 
@@ -14,7 +14,8 @@ for designing a unique and professional-looking store.
 
 - Integration with Shopify Apps: It integrates with popular Shopify apps like reviews, email marketing, and pop-ups, so you can enhance page functionality.
 
-- Conversion-focused Elements: Elements like countdown timers, image sliders, and video embeds are designed to improve conversions by engaging customers and driving actions.
+- Conversion-focused Elements: Elements like countdown timers, image sliders, and video embeds are designed to improve conversions by engaging customers and 
+driving actions.
 
 - A/B Testing: You can test different page versions to see which performs better, optimizing for better conversion rates.
 
@@ -32,17 +33,23 @@ for designing a unique and professional-looking store.
 
 3. How GemPages Can Improve Your Shopify Store
 
-- Enhanced Product Pages: For items like your vegetable chopper or electric shake bottle, you can create unique, benefit-focused product pages that highlight features visually
-with images, videos, or testimonials.
+- Enhanced Product Pages: For items like your vegetable chopper or electric shake bottle, you can create unique, benefit-focused product pages that highlight 
+features visually with images, videos, or testimonials.
 
-- Landing Pages for Promotions: You could build landing pages dedicated to specific promotions (e.g., a Valentine’s Day gift landing page) to capture customer interest with strong
-visuals and call-to-action buttons.
+- Landing Pages for Promotions: You could build landing pages dedicated to specific promotions (e.g., a Valentine’s Day gift landing page) to capture customer 
+interest with strong visuals and call-to-action buttons.
 
 - Boosted Conversion Rates: Incorporating elements like countdown timers or product bundles encourages customers to act quickly and increases order sizes.
 
-- Customization and Cohesive Branding: By creating pages with consistent design, you can elevate the branding of Leavsley, making the store more recognizable and professional.
+- Customization and Cohesive Branding: By creating pages with consistent design, you can elevate the branding of Leavsley, making the store more recognizable and 
+professional.
 
-- Improved Navigation and User Flow: You can create optimized layouts to help customers find what they’re looking for quickly, improving the overall shopping experience and
-potentially reducing bounce rates.
+- Improved Navigation and User Flow: You can create optimized layouts to help customers find what they’re looking for quickly, improving the overall shopping 
+experience and potentially reducing bounce rates.
 
-GemPages is especially helpful if you want to create a highly tailored store experience without extensive coding, making it a strong fit as you scale and develop Leavsley.
+GemPages is especially helpful if you want to create a highly tailored store experience without extensive coding, making it a strong fit as you scale and develop 
+Leavsley.
+
+Santrel Media: 1:14:30, https://youtu.be/tlXHPg411zI?si=N5ZVZcy32EAgE7_D 
+
+Must have: https://youtu.be/VJ8iBr58LNg?si=Y3YmZyAt9Cp50yUx
