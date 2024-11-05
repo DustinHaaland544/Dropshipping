@@ -1,0 +1,14 @@
+Switching to a new Shopify theme does typically mean you’ll have to reconfigure certain elements, especially those specific to the theme design, like color schemes, fonts, 
+layout settings, and some customization options unique to the old theme. However, some core aspects of your store won't change:
+
+1. Products, Collections, and Menus: These are unaffected by a theme change and will stay the same.
+
+2. Pages and Blog Posts: Any content you’ve added, like pages (e.g., FAQ page) and blog posts, will carry over.
+
+3. Navigation Structure: The menu structure should remain as is, although you may need to adjust links if the new theme handles menus differently.
+
+4. Apps and App Settings: Apps stay installed, but any theme-specific placements of app elements may need re-integration.
+
+5. Custom Code: If you’ve added custom code to the old theme (like liquid code for the Catalog menu or style changes), those will not transfer. You’d need to reapply them to the new theme.
+
+It’s best to preview the new theme and make note of any adjustments you may need to redo. Some design work might be required, but with a clear checklist, the transition can go smoothly.
