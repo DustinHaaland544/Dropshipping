@@ -1,1 +1,25 @@
+If you're looking to pause your Shopify store temporarily and avoid standard charges, Shopify offers two main options:
+
+Pause and Build Plan: This plan allows you to keep the store accessible for a reduced fee (usually around $9/month). Customers can't 
+make purchases, but you can still access the admin panel, manage inventory, and work on the store design. This is a good option if 
+you plan to return to the store soon and want to keep some access for maintenance.
+
+Full Store Deactivation: If you deactivate your store entirely, it will be closed, and you won’t be billed for the subscription anymore. 
+However, you’ll lose access to the admin dashboard, and the store data will be archived. Shopify keeps this data for a limited time (usually
+2 years), so you can re-open later, but you won’t have direct access to it until you reactivate.
+
+If cost-saving is your main concern and you're unsure when you’ll be ready to return, full deactivation is the best way to avoid charges altogether. 
+If you’d like to keep a minimal presence with backend access, the Pause and Build option might work better.
+
+Since you’re on an annual plan with a promotional rate, switching to the Pause and Build plan should adjust your billing cycle rather than immediately
+charging the full annual amount. Here’s how it typically works:
+
+Billing Suspension for Annual Plans: When you switch to the Pause and Build plan, Shopify usually pauses your current annual billing, effectively 
+"freezing" the remainder of your yearly plan. Instead, they’ll charge you the $9/month until you’re ready to return.
+
+Resuming Full Billing: When you unpause your store and go back to a regular plan, Shopify will then reinstate your annual billing cycle. They’ll 
+resume the remaining balance based on the time left on your original plan, without an immediate full $453 charge unless your yearly cycle has ended.
+
+I recommend confirming this with Shopify’s support to ensure your annual plan adjusts correctly, as they can verify your specific promotional terms.
+
 https://youtu.be/u9fS2SH9jv8?si=ET3aJIc7XLolqKO2
