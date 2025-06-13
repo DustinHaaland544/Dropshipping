@@ -6,8 +6,11 @@ Prompts: photo, 3d render, cinematic
 
 Search at Ideogram for the Hungry Henry restaurant app that you're building
 
-a logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat he holds a fork in one hand and a burger in the other, a 
-napkin tucked into his shirt, suggesting he's ready to feast 
+a logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat and holds a pizza in the other, a napkin tucked into his 
+shirt, suggesting he's ready to feast
+
+a logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat and holds a burger in the other, a napkin tucked into his 
+shirt, suggesting he's ready to feast
 
 a text logo of "mortgages by Terry Becker" for a mortgage company, minimalist, dynamic, background white , Tesno Steel House label below, typography
 
