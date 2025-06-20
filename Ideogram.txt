@@ -6,8 +6,8 @@ Prompts: photo, 3d render, cinematic
 
 Search at Ideogram for the Hungry Henry restaurant app that you're building
 
-a logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat and holds a pizza in the other, a napkin tucked into his 
-shirt, suggesting he's ready to feast
+a fast food logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat and shirt, and holds a burger on his hand, a 
+napkin tucked into his shirt, suggesting he's ready to feast, red font letters
 
 a logo for "Hungry Henry's" fast food restaurant with Henry being the brand-mascot who wears a cowboy hat and holds a burger in the other, a napkin tucked into his 
 shirt, suggesting he's ready to feast
